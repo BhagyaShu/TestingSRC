@@ -6,7 +6,7 @@ public class AscDsc {
 	
 	public static void main(String[] args) {
 		
-		int s[] = {10,70,60,30,20,98}; // declaration of array
+		int s[] = {20,70,50,30,10,58}; // declaration of array
 		
 		System.out.println("----------Array all info--------");
 		
